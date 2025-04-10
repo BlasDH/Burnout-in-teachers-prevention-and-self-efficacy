@@ -1,4 +1,4 @@
-# Personalised Coaching Platform Based on Artificial Intelligence for the Prevention of Teacher Burnout Through Self-Efficacy Training
+# Coaching Platform Based on AI for the Prevention of Teacher Burnout Through Self-Efficacy Training
 AI Project
 ## Summary
 This project proposes the development of a personalised coaching platform powered by artificial intelligence (AI), focused on the prevention of teacher burnout through the enhancement of self-efficacy. The system will use AI tools to provide individualised support that helps teachers improve their self-confidence, classroom management skills, and emotional well-being. By strengthening these key areas, the platform aims to sustainably reduce the risk of professional burnout and promote a healthier, more effective teaching practice.
